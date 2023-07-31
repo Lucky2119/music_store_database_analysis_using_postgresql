@@ -57,6 +57,10 @@ Use the SQL queries provided in the files to perform the desired analysis.
 
 Analyze the results and draw meaningful conclusions based on the data.
 
+# Screenshot
+![database_schema](https://github.com/Lucky2119/music_store_database_analysis_using_postgresql/assets/140330803/20c2ffa7-a69d-43cd-b3ac-4bf5107d2a26)
+
+
 # Conclusion
 By analyzing the music store database, we aim to gain valuable insights into various aspects of the music store's operations. The findings from this analysis will assist the music store management in making informed decisions, optimizing sales strategies, and enhancing customer satisfaction.
 
